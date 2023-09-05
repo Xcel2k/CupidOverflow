@@ -182,7 +182,9 @@ git clone https://github.com/Xcel2k/CupidOverflow.git
 <br>
 If you find any bugs/improvements, do let me know ❤️
 Check out more of my projects over at https://www.github.com/Xcel2k
-Alternatively, you can find me over at
+<br>
+Alternatively, you can find me over at:
+<br>
 <!-- display the social media buttons in your README -->
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
