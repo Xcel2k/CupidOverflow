@@ -171,8 +171,8 @@ if there exists an answer, the following will be displayed:
 <h2>About the author</h2>
 
 <br>
-Hello everyone! I'm glad you made it this far. My name's Muhammad Osama, Xcel is my gaming name and i'm an ex-professional of Counter-Strike and Counter-Strike Global Offensive for my country, Pakistan. I'm also a hobbyist photographer 
-and I love nothing more than to just sit on the rooftop, watching the moon illuminate whatever is in its wake. What do the cool kids call it? Selenophile? I could never get this word right tbh since I always just write selena gomez instead 🥰
+Hello, everyone! I'm glad you made it this far, because this means that there's a chance that you might get to know something about me as most people, such as myself, like to only skim over the readme's about the author and/or the motivation section(s) and quite frankly the feeling of knowing that I poured my heart and soul into this project yet some people might skip this part without even a second thought is a very humbling and gratifying experience to say the least. <br> Anyways.<br>My name's Muhammad Osama, Xcel is my gaming name and i'm an ex-professional of Counter-Strike and Counter-Strike Global Offensive for my country, Pakistan. I'm also a hobbyist photographer 
+and I love nothing more than to just sit on the rooftop, watching the moon illuminate whatever is in its wake. What do the cool kids call it? Selenophile? I could never get this word right tbh since I always end up writing Selena instead 🥰
 <br> 
 I want to thank https://github.com/desphixs for the amazing youtube tutorial that helped me get this Website up and running (at least on my localhost) 😜
 <br>
@@ -180,8 +180,8 @@ You can clone this repo using the following command:
 <br>
 git clone https://github.com/Xcel2k/CupidOverflow.git 
 <br>
-If you find any bugs/improvements, do let me know ❤️
-Check out more of my projects over at https://www.github.com/Xcel2k
+If you find any bugs/improvements, do let me know ❤️<br>
+Check out more of my projects over at my github profile.
 <br>
 Alternatively, you can find me over at:
 <br>
